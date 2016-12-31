@@ -2,8 +2,8 @@
 layout: post
 title:  "Saudade dos meus bechanos!"
 date:   2005-10-30 02:37:22 -0300
-categories: portuguese SLC
-tags: portuguese SLC
+categories: portuguese SLC cats
+tags: portuguese SLC cats
 comments: true
 ---
 
