@@ -7,4 +7,4 @@ tags: video skydiving
 comments: true
 ---
 
-<iframe width="480" height="385" src="https://www.youtube.com/embed/ChSc-Oa7C_0" frameborder="0" allowfullscreen></iframe>
+<center><iframe width="480" height="385" src="https://www.youtube.com/embed/ChSc-Oa7C_0" frameborder="0" allowfullscreen></iframe></center>
