@@ -7,7 +7,7 @@ tags: recipe portuguese
 comments: true
 ---
 
-<center><img src="/blog/images/risoni.jpg" style="width: 70%;" /></center>
+<center><img src="/blog/images/risoni.jpg" class="image post-image" style="width: 60%;" /></center>
 
 Essa salada de Risoni (um macarrão no formato de arroz) e grão de bico é bem fácil de fazer e muito saborosa. Combina muito bem com grelhados. Normalmente eu cozinho o grão de bico no dia anterior ao de preparar a salada, mas pode ser feito tudo no mesmo dia. O importante é que o grão de bico não fique muito mole, portanto não deixe cozinhar tempo demais e que esteja frio na hora de preparar a salada. Ela pode ser servida gelada ou em temperatura ambiente.
 
