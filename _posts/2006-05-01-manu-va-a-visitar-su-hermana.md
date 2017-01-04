@@ -9,34 +9,34 @@ comments: true
 
 Sobre minha visitinha a Fortaleza, minha adorada salve, salve irmã Isabela me mandou este texto de Pedro Candela, adaptado à situação :)
 
-> (destinada à minha agente de viagens no Brasil, 
-> requerindo um favorzinho urgente)
+> (destinada à minha agente de viagens no Brasil,<br> 
+> requerindo um favorzinho urgente)<br>
 > 
-> já reservastes um navio de cristal pra minha irmazinha? 
-> um cometa ajato com um piano na calda? 
-> uma roda gigante com catapulta? 
-> uma nave espacial bem bonita?
+> já reservastes um navio de cristal pra minha irmazinha? <br>
+> um cometa ajato com um piano na calda? <br>
+> uma roda gigante com catapulta? <br>
+> uma nave espacial bem bonita?<br>
 > 
-> cheia de luzes coloridas e com birita pra ela vir relaxando, 
-> e uma faixa bem grande escrito assim: poesia
+> cheia de luzes coloridas e com birita pra ela vir relaxando,<br> 
+> e uma faixa bem grande escrito assim: poesia<br>
 > 
-> ela vem me visitar
+> ela vem me visitar<br>
 > 
-> você conhece algum submarino, avião sem radar 
-> pra ela vir ainda este final de semana, 
-> sem ninguém perceber
-> sera que já existe bicicleta trans-oceânica 
-> vinda dos EUA? 
+> você conhece algum submarino, avião sem radar<br> 
+> pra ela vir ainda este final de semana, <br>
+> sem ninguém perceber<br>
+> sera que já existe bicicleta trans-oceânica<br> 
+> vinda dos EUA? <br>
 > 
-> liga na caloi. pesquisa. 
+> liga na caloi. pesquisa.<br> 
 > 
-> ela deve vir a qualquer preço, pendura 
-> encontra um veículo confortável, que chega rápido 
-> pode ser experimental, ela adora 
-> já tem máquina do tempo 
-> porque a vida não gosta de esperar
-> tenho amigo cientista, quer o telefone? 
-> ela vem me visitar
+> ela deve vir a qualquer preço, pendura<br> 
+> encontra um veículo confortável, que chega rápido<br> 
+> pode ser experimental, ela adora <br>
+> já tem máquina do tempo <br>
+> porque a vida não gosta de esperar<br>
+> tenho amigo cientista, quer o telefone?<br> 
+> ela vem me visitar<br>
 
 Perfect!
 
