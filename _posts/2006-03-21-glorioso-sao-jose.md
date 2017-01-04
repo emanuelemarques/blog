@@ -2,8 +2,8 @@
 layout: post
 title:  "Glorioso São José, traz chuva em abundância para o meu Ceará"
 date:   2006-03-21 00:33:00 -0300
-categories: portuguese SLC
-tags: portuguese SLC
+categories: portuguese
+tags: portuguese
 comments: true
 ---
 

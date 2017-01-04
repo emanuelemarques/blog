@@ -2,8 +2,8 @@
 layout: post
 title:  "Jornal das Pequenas Coisas"
 date:   2006-04-24 21:57:00 -0300
-categories: portuguese SLC
-tags: portuguese SLC
+categories: portuguese
+tags: portuguese
 comments: true
 ---
 <center><img class="image post-image" src="/blog/images/Foto_Rita.jpg" width="60%"></center>
