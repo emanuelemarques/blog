@@ -11,6 +11,7 @@ Essa é a minha homenagem aos meus amigos. Não estão todos aqui, infelizmente.
 
 <center><img class="image post-image" src="/blog/images/amigos.jpg" width="70%"></center>
 
+---
 
 #### 2 Comentários do post original
 

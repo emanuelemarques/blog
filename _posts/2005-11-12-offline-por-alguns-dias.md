@@ -11,6 +11,7 @@ comments: true
 
 Pessoal, o negócio aqui não está fácil... Estou tendo muito trabalho pra fazer e sem tempo para o blog. Quando aliviar mais por aqui eu volto. Por enquanto, só tenho mais uma tirinha... Inté ;)
 
+---
 
 #### 4 Comentários do post original
 

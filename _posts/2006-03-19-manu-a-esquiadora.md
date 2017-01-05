@@ -13,6 +13,8 @@ Pelo menos tentando aprender a ser uma esquiadora :) Afe que nessa foto de cima 
 
 <center><img class="image post-image" src="/blog/images/esqui2.jpg" width="40%"></center>
 
+---
+
 #### 4 Comentários do post original
 
 **Anônimo disse...**

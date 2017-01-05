@@ -11,6 +11,7 @@ comments: true
 
 Olha aí pessoal, tirei uma foto da vista da janela do quarto de estudo que fica para o lado da sombra... Até que eu tenho uma bela vista :)
 
+---
 
 #### 3 Comentários do post original
 **Humberto disse...**

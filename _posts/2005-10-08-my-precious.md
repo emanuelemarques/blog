@@ -10,6 +10,8 @@ comments: true
 <img class="image" src="/blog/images/myprecious.jpg" class="right-image" width="50%">
 Quero mostrar meus novos brinquedos... Sou fã assumida de O Senhor dos Anéis, todo mundo sabe... Não resisti e comprei a trilogia versão estendida, mais a versão de colecionador de *O Hobbit*, e pra terminar versao de 50o. Aniversário de *O Senhor dos Anéis*... Babando total... Pense num acabamento de primeira... **And they're mine... my own... my precious!** :D
 
+---
+
 #### 5 Comentários do post original
 
 **Manu disse...**

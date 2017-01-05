@@ -11,6 +11,8 @@ comments: true
 
 Estreando minha nova câmera em pleno campus, vejam só com quem me deparei: Isabeau, mais conhecida como Lady Hawke (Lady Falcão). Quem assistiu ao filme Feitiço de Áquila sabe de quem estou falando... Ela própria, em carne e osso :) Eu sei que é a lei da natureza, mas que dá pena do coelhinho, dá!
 
+---
+
 #### 2 Comentários do post original
 
 **Isabela disse...**

@@ -15,6 +15,7 @@ Essa é a minha princesa! :)
 
 <center><img class="image post-image" src="/blog/images/esperando_mamae2.jpg" width="70%"></center>
 
+---
 
 #### 4 Comentários do post original
 **Isabela disse...**

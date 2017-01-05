@@ -10,6 +10,7 @@ comments: true
 <center><img class="image post-image" src="/blog/images/garden.jpg" width="60%"></center>
 <figcaption>A cidade está linda :) Tulipas por todos os lados! De todas as cores :)</figcaption>
 
+---
 
 #### 3 Comentários do post original
 

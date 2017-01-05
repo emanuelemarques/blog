@@ -28,6 +28,7 @@ Portanto, não perca mais nem um minuto aqui, e trate logo de conhecer o cantinh
 
 *__Update em 02-jan-2017:__ O blog não existe mais, mas você pode conferir algumas postagens e fotos salvas no [Internet Archive](http://web.archive.org/web/*/http://pequenascoisas.org).* 
 
+---
 
 #### 4 Comentários do post original
 

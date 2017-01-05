@@ -13,6 +13,8 @@ comments: true
 
 <center><img class="post-image" src="/blog/images/collage2.jpg" width="60%"></center>
 
+---
+
 #### 2 Comentários do post original
 **Anônimo disse...**
 Poxa, estão lindos os filhoinhos :-).  `12:09 PM`  

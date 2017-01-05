@@ -11,6 +11,8 @@ comments: true
 
 Minha vista voltando pra casa... Dá pra ver o vale e as montanhas ao redor.
 
+---
+
 #### 1 Comentário do post original
 
 **Isabela disse...**

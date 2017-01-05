@@ -25,6 +25,7 @@ O curso é muito puxado. Os professores estão sempre passando trabalhos, artigo
 ### Comida :P
 A comida americana é horrível, vocês já devem saber ou imaginar. As opções são hamburguers (pelo menos existem outras redes muito melhores do que o McDonalds), pizza (Pizza Hut aqui não chega nem aos pés da de Fortaleza) Fui comer uma Supreme aqui quase vomitei. A carne estava crua, horrível. A de Pepperoni é razoável. Tem outras opções boas também. Quanto a cozinhar em casa, a dificuldade é encontrar os ingredientes, muita coisa que eu usava aí, não tem aqui ou ainda não encontrei um similar... Felizmente consegui fazer os bolinhos e meu franguinho de cada dia :) Mas uma coisa eu tenho de dar o braço a torcer, em termos de sorvete e bolo, aqui supera a Barbaresco e dá de mil no Bom de Vera :P
 
+---
 
 #### 7 Comentários do post original
 **Cátia disse...**

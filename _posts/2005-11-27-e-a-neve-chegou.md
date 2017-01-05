@@ -11,6 +11,7 @@ comments: true
 
 Vejam aí a vista da janela da minha sala nessa branca manhã de domingo!
 
+---
 
 #### 5 Comentários do post original
 

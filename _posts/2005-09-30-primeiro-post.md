@@ -9,6 +9,7 @@ comments: true
 <img src="/blog/images/manu100_2005.jpg" class="image left-image">
 Oi, pessoal. Resolvi aderir a esse negócio de blog. Só não sei com que freqüência vou postar aqui, mas pelo menos é um lugar pra eu colocar minhas fotos rapidamente... Não reparem na resolução, pois uso a câmera do palm, que não é lá essas coisas! Bem... É um começo!
 
+---
 
 #### 4 Comentários do post original
 

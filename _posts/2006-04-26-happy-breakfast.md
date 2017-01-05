@@ -10,6 +10,7 @@ comments: true
 <center><img class="image post-image" src="/blog/images/happy_eggo.jpg" width="60%"></center>
 <figcaption>Porque as alegrias do dia começam no café-da-manhã! :)</figcaption>
 
+---
 
 #### 5 Comentários do post original
 

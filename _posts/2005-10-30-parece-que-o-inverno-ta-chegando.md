@@ -14,6 +14,8 @@ Acima é a reitoria da University of Utah e a praça que fica em frente. Reparem
 
 <center><img class="post-image" src="/blog/images/manucomfrio.jpg" width="40%"></center>
 
+---
+
 #### 5 Comentários do post original
 
 **isabela disse...**

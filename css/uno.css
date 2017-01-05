@@ -951,7 +951,7 @@ h3,
 h4,
 h5,
 h5 {
-	margin-top: .8em;
+	margin-top: 1em;
 	margin-bottom: .4em;
 	font-family: "Roboto Slab", serif;
 	font-weight: lighter;
@@ -965,19 +965,25 @@ h1 {
 	letter-spacing: .03em; }
 
 h2 {
-	font-size: 2.2em; }
+	margin-top: 15px;
+	font-size: 1.8em;
+	margin-bottom: 20px; }
 
 h3 {
-	font-size: 1.8em; }
+	margin-top: 15px;
+	font-size: 1.4em; 
+    font-weight: bolder;
+	margin-bottom: 20px;}
 
 h4 {
-	font-size: 1.4em; }
-
-h4 {
-	font-size: 1.2em; }
+	margin-top: 15px;
+	font-size: 1.2em; 
+	font-weight: bolder;
+	margin-bottom: 20px; }
 
 h5 {
-	font-size: 1em; }
+	font-size: 1.1em;
+	font-weight: bolder; }
 
 p {
 	margin-bottom: 1.3em;

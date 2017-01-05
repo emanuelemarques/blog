@@ -11,6 +11,7 @@ comments: true
 
 Ela estava à beira da calçada... E talvez quase ninguém percebesse o quanto ela é bela... Pena! Pelo menos eu percebi e registrei :)
 
+---
 
 #### 3 Comentários do post original
 
