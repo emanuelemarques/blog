@@ -11,13 +11,13 @@ comments: true
 
 Esses cookies são uma delícia e fáceis de fazer! A receita [original](http://www.davidlebovitz.com/2010/08/salted-butter-chocolate-chip-cookies-recipe/) (em inglês) é do David Lebovitz, um chef americano e que foi morar em Paris e que eu adoro! Ele tem muitas receitas maravilhosas. Além desses cookies recomendo também o [mousse de chocolate](http://www.davidlebovitz.com/2008/05/perfect-chocola/) (assunto para um outro post). 
 
-<center><img src="/blog/images/cookies2.jpg" style="width: 90%;" /></center>
+<center><img post-image src="/blog/images/cookies2.jpg" style="width: 90%;" /></center>
 
 Eu praticamente usei a receita original, modificando apenas a quantidade de chocolate para 170g o que é o tamanho padrão atual de uma barra de chocolate (Era! Baixou para 150g). Usei o chocolate meio-amargo da Nestlé e amêndoas (tostei no forno por uns 10 minutos). Eu deixei a massa resfriar de um dia para o outro na geladeira, como ele recomenda. Se usar manteiga sem sal, adicione 1/4 ou 1/2 colher de chá de sal à massa. 
 
-<center><img src="/blog/images/cookies3.jpg" style="width: 90%;" /></center>
+<center><img post-image src="/blog/images/cookies3.jpg" style="width: 90%;" /></center>
 
-## Ingredientes:
+### Ingredientes:
 * 115g de manteiga com sal, em temperatura ambiente
 * 2/3 de xícara de açúcar mascavo, bem compacto
 * 1/2 xícara de açúcar granulado
@@ -29,7 +29,7 @@ Eu praticamente usei a receita original, modificando apenas a quantidade de choc
 * 200g (ou uma barra) de chocolate meio-amargo picado grosseiramente
 * 1 xícara de chá de amêndoas, nozes, ou castanhas tostadas e picadas grosseiramente
 
-## Modo de preparo:
+### Modo de preparo:
 1. Na tigela de uma batedeira, ou à mão, bata a manteiga, o açúcar mascavo e o açúcar granulado até que fique um creme liso.
 2. Adicione o ovo e a baunilha e bata bem.
 3. Numa tigela pequena, misture a farinha, o bicarbonato de sódio e o sal.

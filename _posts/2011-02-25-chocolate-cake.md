@@ -14,7 +14,9 @@ Nos últimos meses, eu testei 3 receitas diferentes de bolo de chocolate, que pr
 A receita original (em inglês) está disponível no site do [food52](http://www.food52.com/recipes/2835_chocolate_bundt_cake). Eu faço um pouco diferente, como vocês poderão notar na receita abaixo. Ao invés de usar uma xícara de sour milk (leite azedo) eu uso meia xícara de leite integral e meia xícara de iogurte natural. Eu já fiz com iogurte desnatado e também ficou bom, mas não sei se fazendo também com o leite desnatado vai funcionar. Se um dia eu tentar eu atualizo o post. Enjoy!
 
 ## Chocolate Bundt Cake (com iogurte)
-## Ingredientes:
+
+### Ingredientes:
+
 * 2 xícaras de açúcar
 * 1 3/4 xícaras de farinha de trigo sem fermento
 * 3/4 xícaras de chocolate em pó (eu uso o do fradinho) e mais um pouco para untar a forma
@@ -28,7 +30,7 @@ A receita original (em inglês) está disponível no site do [food52](http://www
 * 2 ovos
 * 1 colher de chá de baunilha
 
-## Modo de preparo:
+### Modo de preparo:
 1. Pré-aqueça o forno a 180ºC e unte uma forma com um buraco no centro com manteiga e chocolate em pó. Reserve-a.
 2. Em uma tigela, peneire o açúcar, a farinha, chocolate em pó, sal, fermento e o bicarbonato. Reserve.
 3. Numa batedeira em baixa velocidade, misture o leite, iogurte, café, óleo, os ovos e a baunilha, adicionando um ingrediente por vez. Misture até que fica uma mistura homogênea. Com a batedeira ainda ligada em baixa velocidade, adicione a mistura da farinha aos poucos. Uma vez que toda a farinha foi adicionada, continue batendo a massa por mais 4 minutos em velocidade média.
