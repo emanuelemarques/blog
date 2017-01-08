@@ -32,7 +32,7 @@ Asse em forno preaquecido por 20 a 25 minutos, ou até que enfiando um palito sa
 
 ---
 
-#### 2 Comentários do post original
+#### 3 Comentários do post original
 **Isabela disse...**
 e onde eu acho fubá aqui? `7:00 PM`  
 
