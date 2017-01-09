@@ -13,7 +13,8 @@ comments: true
 Mais um *false friend* pra minha lista. Engana-se quem pensa, como eu pensava, que limão em inglês é *lemon*. Só agora depois de um ano morando aqui nos Estados Unidos, é que me dei conta disso. Estava na casa de uma amiga americana fazendo um peixe à delícia, quando eu falei que precisava de *lemon juice* pra temperar o peixe, ela me trouxe lima (ou limão siciliano). Foi aí que eu descobri que eu deveria ter dito *lime juice*.
 
 
-<img class="image left-image" src="/blog/images/lime.jpg" width="35%">E acho que muita gente ainda se confunde no Brasil. Muitos produtos que dizem conter sabor artificial de limão, na verdade é de lima. Quando senti o cheiro da lima aqui, me lembrei do Menthos de limão que na verdade é de lima (inclusive a cor, amarelo).
+<img class="image left-image" src="/blog/images/lime.jpg" width="35%">
+E acho que muita gente ainda se confunde no Brasil. Muitos produtos que dizem conter sabor artificial de limão, na verdade é de lima. Quando senti o cheiro da lima aqui, me lembrei do Menthos de limão que na verdade é de lima (inclusive a cor, amarelo).
 
 ---
 
