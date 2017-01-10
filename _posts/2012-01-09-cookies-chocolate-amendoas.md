@@ -7,7 +7,7 @@ tags: recipe portuguese
 comments: true
 ---
 
-<center><img src="/blog/images/cookies1.jpg" style="width: 90%;" /></center>
+<center><img post-image src="/blog/images/cookies1.jpg" style="width: 90%;" /></center>
 
 Esses cookies são uma delícia e fáceis de fazer! A receita [original](http://www.davidlebovitz.com/2010/08/salted-butter-chocolate-chip-cookies-recipe/) (em inglês) é do David Lebovitz, um chef americano e que foi morar em Paris e que eu adoro! Ele tem muitas receitas maravilhosas. Além desses cookies recomendo também o [mousse de chocolate](http://www.davidlebovitz.com/2008/05/perfect-chocola/) (assunto para um outro post). 
 
