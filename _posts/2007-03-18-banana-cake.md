@@ -7,7 +7,7 @@ tags: recipe portuguese
 comments: true
 ---
 
-<center><img post-image src="/blog/images/bananacake.jpg" style="width: 60%;" /></center>
+<center><img class="post-image" src="/blog/images/bananacake.jpg" style="width: 60%;" /></center>
 
 Essa receita também é campeã! Certamente é uma boa pedida para aquele cafezinho do final da tarde.
 

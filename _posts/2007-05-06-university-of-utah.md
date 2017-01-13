@@ -7,4 +7,4 @@ tags: SLC
 comments: true
 ---
 
-<center><img post-image src="/blog/images/uofu.jpg" style="width: 60%;" /></center>
+<center><img class="post-image" src="/blog/images/uofu.jpg" style="width: 60%;" /></center>

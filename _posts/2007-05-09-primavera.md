@@ -7,7 +7,7 @@ tags: SLC
 comments: true
 ---
 
-<center><img post-image src="/blog/images/primavera.jpg" style="width: 60%;" /></center>
+<center><img class="post-image" src="/blog/images/primavera.jpg" style="width: 60%;" /></center>
 
 ---
 
