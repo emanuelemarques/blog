@@ -12,7 +12,7 @@ Sinto em ter demorado pra escrever essas impressões, mas a correria é realment
 ### Salt Lake City e o clima
 É uma cidade muito bonita, de grande altitude, fica localizada num vale no meio das montanhas. A universidade fica quase na encosta das montanhas, e de lá tem-se uma visão espetacular da cidade. Eu moro perto da universidade, há uns 3 blocos de lá. Aí embaixo é uma foto da minha casa :)
 
-<center><img class="image post-image" src="/blog/images/vistaFora.jpg" width="50%"></center>
+<center><img class="image post-image" src="/images/vistaFora.jpg" width="50%"></center>
 
 Estou adorando poder andar a pé... Coisa que eu não fazia em Fortaleza por causa de insegurança... Enquanto o clima permitir, quero fazer muito isso. Comprei até uma bicicleta pra facilitar a ida ao supermercado. Nessas horas um carro seria muito útil, mas ainda não está nos meus planos... Os meios de transportes são muito acessíveis. Os alunos da universidade têm passe-livre. E há bastante ônibus e trem também. O clima é muito seco e agora que está no outono, até que chove de vez em quando. Mas já comecei a sofrer com o frio... Saudade de Fortaleza! Outra coisa, não especificamente sobre a cidade, mas sobre a vida em si. Você não consegue quase nada se não tiver SSN (Social Security Number) o nosso CPF aí no Brasil. Até agora não consegui telefone, porque o meu SSN ainda não chegou. Em compensação pra abrir uma conta no banco, foi mais fácil do que atualizar o cadastro no Banco do Brasil.
 

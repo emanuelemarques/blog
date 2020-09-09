@@ -7,7 +7,7 @@ tags: portuguese SLC
 comments: true
 ---
 
-<center><img class="image post-image" src="/blog/images/rosa_rosa.jpg" width="50%"></center>
+<center><img class="image post-image" src="/images/rosa_rosa.jpg" width="50%"></center>
 
 Ela estava à beira da calçada... E talvez quase ninguém percebesse o quanto ela é bela... Pena! Pelo menos eu percebi e registrei :)
 
