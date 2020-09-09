@@ -7,7 +7,7 @@ tags: recipe portuguese
 comments: true
 ---
 
-<center><img src="/blog/images/pesto.jpg" style="width: 70%;" /></center>
+<center><img src="/images/pesto.jpg" style="width: 70%;" /></center>
 
 Uma receita simples mas muito saborosa e com a cara da Itália (pelo menos é como imagino). Ano que vem eu digo se é isso mesmo ou não. O molho pesto eu fiz com basilico (manjericão) do meu jardim e ele tem a folha mais graúda, diferente das variedades que encontramos nos supermercados de Fortaleza. Fiz num pilão de pedra que eu tenho, mas pode ser feito no processador ou no liquidificador. Cuidado que o gosto pode ficar diferente. Os puristas podem observar que não usei pine nuts porque acho que nem existe aqui em Fortaleza e não faz muita diferença no sabor final. Em último caso, pode-se comprar o molho pronto, mas garanto que perde toda a graça! Vou ficar devendo uma foto do prato pronto, acabei esquecendo de tirar. A receita original do molho é de Patricia Wells, no livro [Patricia Wells' Trattoria Cooking](http://www.patriciawells.com/books/trattoria-cooking-by-patricia-wells).
 

@@ -7,15 +7,15 @@ tags: recipe portuguese
 comments: true
 ---
 
-<center><img post-image src="/blog/images/cookies1.jpg" style="width: 90%;" /></center>
+<center><img post-image src="/images/cookies1.jpg" style="width: 90%;" /></center>
 
 Esses cookies são uma delícia e fáceis de fazer! A receita [original](http://www.davidlebovitz.com/2010/08/salted-butter-chocolate-chip-cookies-recipe/) (em inglês) é do David Lebovitz, um chef americano e que foi morar em Paris e que eu adoro! Ele tem muitas receitas maravilhosas. Além desses cookies recomendo também o [mousse de chocolate](http://www.davidlebovitz.com/2008/05/perfect-chocola/) (assunto para um outro post). 
 
-<center><img post-image src="/blog/images/cookies2.jpg" style="width: 90%;" /></center>
+<center><img post-image src="/images/cookies2.jpg" style="width: 90%;" /></center>
 
 Eu praticamente usei a receita original, modificando apenas a quantidade de chocolate para 170g o que é o tamanho padrão atual de uma barra de chocolate (Era! Baixou para 150g). Usei o chocolate meio-amargo da Nestlé e amêndoas (tostei no forno por uns 10 minutos). Eu deixei a massa resfriar de um dia para o outro na geladeira, como ele recomenda. Se usar manteiga sem sal, adicione 1/4 ou 1/2 colher de chá de sal à massa. 
 
-<center><img post-image src="/blog/images/cookies3.jpg" style="width: 90%;" /></center>
+<center><img post-image src="/images/cookies3.jpg" style="width: 90%;" /></center>
 
 ### Ingredientes:
 * 115g de manteiga com sal, em temperatura ambiente
