@@ -7,7 +7,7 @@ tags: portuguese SLC
 comments: true
 ---
 
-<center><img class="image post-image" src="/blog/images/mountain_view.jpg" width="70%"></center>
+<center><img class="image post-image" src="/images/mountain_view.jpg" width="70%"></center>
 
 Minha vista voltando pra casa... Dá pra ver o vale e as montanhas ao redor.
 

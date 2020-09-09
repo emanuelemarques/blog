@@ -7,13 +7,13 @@ tags: portuguese
 comments: true
 ---
 
-<center><img class="image post-image" src="/blog/images/rede.jpg" width="70%"></center>
+<center><img class="image post-image" src="/images/rede.jpg" width="70%"></center>
 
 
 E tem gente que já está me esperando na porta :D
 Essa é a minha princesa! :)
 
-<center><img class="image post-image" src="/blog/images/esperando_mamae2.jpg" width="70%"></center>
+<center><img class="image post-image" src="/images/esperando_mamae2.jpg" width="70%"></center>
 
 ---
 

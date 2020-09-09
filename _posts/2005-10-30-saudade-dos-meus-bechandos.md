@@ -7,11 +7,11 @@ tags: portuguese SLC cats
 comments: true
 ---
 
-<center><img class="post-image" src="/blog/images/collage3.0.jpg" width="60%"></center>
+<center><img class="post-image" src="/images/collage3.0.jpg" width="60%"></center>
 
 Ô saudade dos meus nenéns... Minha filha, meu filho, meus netos que ainda nem conheci! Um é a cara do pai (A Xiquinha é chegada num negão :D) e os outros a cara da mãe :D O Tom sobrou na história... Antes de ser já era, né Tom!
 
-<center><img class="post-image" src="/blog/images/collage2.jpg" width="60%"></center>
+<center><img class="post-image" src="/images/collage2.jpg" width="60%"></center>
 
 ---
 

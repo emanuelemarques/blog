@@ -7,6 +7,6 @@ tags: portuguese cats
 comments: true
 ---
 
-<center><img class="image post-image" src="/blog/images/fimdetarde_inverno.jpg" width="70%"></center>
+<center><img class="image post-image" src="/images/fimdetarde_inverno.jpg" width="70%"></center>
 
 Sexta-feira, final de tarde na universidade.

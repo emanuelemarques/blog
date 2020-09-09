@@ -7,7 +7,7 @@ tags: portuguese SLC
 comments: true
 ---
 
-<center><img class="image post-image" src="/blog/images/happy_eggo.jpg" width="60%"></center>
+<center><img class="image post-image" src="/images/happy_eggo.jpg" width="60%"></center>
 <figcaption>Porque as alegrias do dia começam no café-da-manhã! :)</figcaption>
 
 ---

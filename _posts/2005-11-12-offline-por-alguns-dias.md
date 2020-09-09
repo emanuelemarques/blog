@@ -7,7 +7,7 @@ tags: portuguese SLC phdcomics
 comments: true
 ---
 
-<center><img class="image post-image" src="/blog/images/phdcomics.jpg" width="80%"></center>
+<center><img class="image post-image" src="/images/phdcomics.jpg" width="80%"></center>
 
 Pessoal, o negócio aqui não está fácil... Estou tendo muito trabalho pra fazer e sem tempo para o blog. Quando aliviar mais por aqui eu volto. Por enquanto, só tenho mais uma tirinha... Inté ;)
 

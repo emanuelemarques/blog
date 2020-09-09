@@ -7,12 +7,12 @@ tags: portuguese SLC
 comments: true
 ---
 
-<center><img class="post-image" src="/blog/images/collage1.jpg" width="60%"></center>
+<center><img class="post-image" src="/images/collage1.jpg" width="60%"></center>
 
 Acima é a reitoria da University of Utah e a praça que fica em frente. Reparem os prédios do centro da cidade ao fundo... E meu povo, eita, que tá fazendo frio... E é porque ainda não vi nada! Mas como eu sou uma cearense legítima, tenho que me prevenir! :P
 
 
-<center><img class="post-image" src="/blog/images/manucomfrio.jpg" width="40%"></center>
+<center><img class="post-image" src="/images/manucomfrio.jpg" width="40%"></center>
 
 ---
 

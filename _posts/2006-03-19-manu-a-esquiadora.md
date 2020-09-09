@@ -7,11 +7,11 @@ tags: portuguese SLC
 comments: true
 ---
 
-<center><img class="image post-image" src="/blog/images/esqui1.jpg" width="60%"></center>
+<center><img class="image post-image" src="/images/esqui1.jpg" width="60%"></center>
 
 Pelo menos tentando aprender a ser uma esquiadora :) Afe que nessa foto de cima eu estou muito desengonçada... Essa é a manobra pra reduzir a velocidade, chamada wedge. Que por sinal, eu estava fazendo errado... Por isso que eu não conseguia parar o ski! :S Next time...
 
-<center><img class="image post-image" src="/blog/images/esqui2.jpg" width="40%"></center>
+<center><img class="image post-image" src="/images/esqui2.jpg" width="40%"></center>
 
 ---
 

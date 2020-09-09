@@ -7,7 +7,7 @@ tags: portuguese SLC
 comments: true
 ---
 
-<center><img class="post-image" src="/blog/images/vista_do_ape.jpg" width="50%"></center>
+<center><img class="post-image" src="/images/vista_do_ape.jpg" width="50%"></center>
 
 Olha aí pessoal, tirei uma foto da vista da janela do quarto de estudo que fica para o lado da sombra... Até que eu tenho uma bela vista :)
 

@@ -7,7 +7,7 @@ tags: recipe portuguese
 comments: true
 ---
 
-<center><img src="/blog/images/chocolate_cake.jpg" style="width: 90%;" /></center>
+<center><img src="/images/chocolate_cake.jpg" style="width: 90%;" /></center>
 
 Nos últimos meses, eu testei 3 receitas diferentes de bolo de chocolate, que pretendo publicar em uma série de posts aqui no blog. São receitas de origens diferentes: uma brasileira, outra americana e uma francesa. Como o título desse post sugere, a receita de hoje é a americana. Resolvi publicá-la primeiro porque é a que eu tenho feito com mais frequência e lembrei de tirar uma foto. Bem fácil de fazer! O bolo fica bem molhadinho, não muito doce e tão gostoso que quando eu faço, desaparece num piscar de olhos. 
 

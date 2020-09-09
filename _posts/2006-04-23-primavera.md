@@ -7,7 +7,7 @@ tags: portuguese SLC
 comments: true
 ---
 
-<center><img class="image post-image" src="/blog/images/garden.jpg" width="60%"></center>
+<center><img class="image post-image" src="/images/garden.jpg" width="60%"></center>
 <figcaption>A cidade está linda :) Tulipas por todos os lados! De todas as cores :)</figcaption>
 
 ---

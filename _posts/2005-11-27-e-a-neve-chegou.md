@@ -7,7 +7,7 @@ tags: portuguese SLC snow
 comments: true
 ---
 
-<center><img class="image post-image" src="/blog/images/vista_sala_neve_low.jpg" width="70%"></center>
+<center><img class="image post-image" src="/images/vista_sala_neve_low.jpg" width="70%"></center>
 
 Vejam aí a vista da janela da minha sala nessa branca manhã de domingo!
 

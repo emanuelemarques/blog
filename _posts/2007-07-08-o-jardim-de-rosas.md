@@ -7,5 +7,5 @@ tags: portuguese travel
 comments: true
 ---
 
-<center><img  class="post-image" src="/blog/images/rose_garden.jpg" style="width: 60%;" /></center>
+<center><img  class="post-image" src="/images/rose_garden.jpg" style="width: 60%;" /></center>
 Em 1956, como não havia cemitério em Los Alamos, plantavam-se rosas em memória daqueles que morreram. O jardim é mantido por voluntários até hoje.

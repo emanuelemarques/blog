@@ -9,7 +9,7 @@ comments: true
 
 Achei essa pérola dos Trapalhões no ~~Youtube~~ (o vídeo foi retirado do ar por violação de direito autoral):
 
-<center><img class="image post-image" src="/blog/images/trapalhoes_teresinha.png" width="60%"></center>
+<center><img class="image post-image" src="/images/trapalhoes_teresinha.png" width="60%"></center>
 
 Segue o [link](http://globotv.globo.com/rede-globo/memoria-globo/v/aventuras-do-didi-os-trapalhoes-encenam-teresinha/2632340/) para o vídeo oficial da Rede Globo.
 

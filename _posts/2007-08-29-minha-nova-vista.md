@@ -7,7 +7,7 @@ tags: SLC
 comments: true
 ---
 
-<center><img  class="post-image" src="/blog/images/novavista.jpg" style="width: 60%;" /></center>
+<center><img  class="post-image" src="/images/novavista.jpg" style="width: 60%;" /></center>
 
 ---
 

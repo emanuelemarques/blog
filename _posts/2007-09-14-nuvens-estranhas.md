@@ -7,7 +7,7 @@ tags: SLC
 comments: true
 ---
 
-<center><img  class="post-image" src="/blog/images/nuvens_estranhas.jpg" style="width: 60%;" /></center>
+<center><img  class="post-image" src="/images/nuvens_estranhas.jpg" style="width: 60%;" /></center>
 
 ---
 

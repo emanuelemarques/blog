@@ -6,7 +6,7 @@ categories: portuguese
 tags: portuguese
 comments: true
 ---
-<center><img class="image post-image" src="/blog/images/Foto_Rita.jpg" width="60%"></center>
+<center><img class="image post-image" src="/images/Foto_Rita.jpg" width="60%"></center>
 <figcaption>Foto de Rita Apoena</figcaption>
 
 Tudo começou com um pequeno texto no profile da Isabela no orkut:

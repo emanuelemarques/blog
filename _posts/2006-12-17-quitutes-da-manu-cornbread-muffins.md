@@ -7,7 +7,7 @@ tags: portuguese cooking
 comments: true
 ---
 
-<center><img class="post-image" src="/blog/images/cornbread_muffins.jpg" width="60%"></center>
+<center><img class="post-image" src="/images/cornbread_muffins.jpg" width="60%"></center>
 Ontem de manhã eu fiz esses bolinhos como presente de Natal para os meus colegas da Universidade. Depois que enrolei cada um em papel alumínio, ficaram parecidos com bolas de árvore de Natal  Ficaram muito bons. Como leva caroços de milho, o muffin fica bem mais saboroso. Mas acho que essa receita ainda pode ser aperfeiçoada. Na próxima vez que eu fizer, vou tentar uma nova variação e se ficar melhor eu atualizo esse post. 
 
 ## Bolinhos de Milho

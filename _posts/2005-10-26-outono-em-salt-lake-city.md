@@ -7,7 +7,7 @@ tags: portuguese SLC
 comments: true
 ---
 
-<center><img class="post-image" src="/blog/images/outono_3.jpg" width="50%"></center>
+<center><img class="post-image" src="/images/outono_3.jpg" width="50%"></center>
 
 Não é Outono em Nova York, mas é em Salt Lake City. Muitas folhas caindo, cores em tons de amarelo para vermelho... As calçadas estão abarrotadas... Ainda bem que não moro em casa pra ter que juntar as folhas. Deve dar um trabalhão! No entanto, bem que podia ter um Richard Gere por aqui... :D
 

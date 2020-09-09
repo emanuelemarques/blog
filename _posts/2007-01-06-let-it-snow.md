@@ -7,12 +7,12 @@ tags: portuguese snow
 comments: true
 ---
 
-<center><img class="post-image" src="/blog/images/snow_uofu_campus.jpg" width="60%"></center>
+<center><img class="post-image" src="/images/snow_uofu_campus.jpg" width="60%"></center>
 <figcaption>University of Utah Campus</figcaption>
 
 Frio só vale a pena acompanhado de neve. Muita neve.
 
-<center><img class="post-image" src="/blog/images/snow_the_gardens.jpg" width="60%"></center>
+<center><img class="post-image" src="/images/snow_the_gardens.jpg" width="60%"></center>
 <figcaption>The Gardens</figcaption>
 
 ---

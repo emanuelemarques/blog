@@ -11,7 +11,7 @@ Incrível como ainda lembro da primeira frase de um dos textos do meu livro de i
 
 E para celebrar o *Valentine's day*, aí segue uma receita bem simples pra quem está de dieta, mas adora uma sobremesa.
 
-<center><img class="post-image" src="/blog/images/maca_ao_forno.jpg" width="60%"></center>
+<center><img class="post-image" src="/images/maca_ao_forno.jpg" width="60%"></center>
 
 ## Maçã ao forno
 *(Serve 2 pessoas)*

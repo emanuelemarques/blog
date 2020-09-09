@@ -7,7 +7,7 @@ tags: portuguese SLC
 comments: true
 ---
 
-<center><img class="post-image" src="/blog/images/ladyhawke-blog.jpg" width="60%"></center>
+<center><img class="post-image" src="/images/ladyhawke-blog.jpg" width="60%"></center>
 
 Estreando minha nova câmera em pleno campus, vejam só com quem me deparei: Isabeau, mais conhecida como Lady Hawke (Lady Falcão). Quem assistiu ao filme Feitiço de Áquila sabe de quem estou falando... Ela própria, em carne e osso :) Eu sei que é a lei da natureza, mas que dá pena do coelhinho, dá!
 

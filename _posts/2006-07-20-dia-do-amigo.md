@@ -9,7 +9,7 @@ comments: true
 
 Essa é a minha homenagem aos meus amigos. Não estão todos aqui, infelizmente. De qualquer maneira, obrigada por vocês existirem e por fazerem parte da minha vida.
 
-<center><img class="image post-image" src="/blog/images/amigos.jpg" width="70%"></center>
+<center><img class="image post-image" src="/images/amigos.jpg" width="70%"></center>
 
 ---
 

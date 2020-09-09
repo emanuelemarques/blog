@@ -7,7 +7,7 @@ tags: portuguese SLC trail
 comments: true
 ---
 
-<img class="image right-image" src="/blog/images/brighton.jpg" width="40%">
+<img class="image right-image" src="/images/brighton.jpg" width="40%">
 Mais uma maravilhosa trilha para o meu portfolio. Essa foi em Brighton, que no inverno é um resort para esquiar. Brighton está localizado no topo do Big Cottonwood Canyon, apenas 35 minutos a sudeste do centro de Salt Lake City e 35 milhas do Aeroporto Internacional de Salt Lake.
 Mais fotos da hike, vejam no [flickr](https://www.flickr.com/photos/esantos/).
 

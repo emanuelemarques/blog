@@ -7,7 +7,7 @@ tags: cooking recipe
 comments: true
 ---
 
-<center><img  class="post-image" src="/blog/images/pancakes.jpg" style="width: 60%;" /></center>
+<center><img  class="post-image" src="/images/pancakes.jpg" style="width: 60%;" /></center>
 Eu estava doida que chegasse o fim-de-semana para testar uma nova receita de pancakes (não gosto de traduzir como panqueca, porque pra mim, panqueca é outra coisa, então vou usar o termo em inglês mesmo). Eu já tinha testado a receita que aparece no filme "No Reservations" (Título em Português: Sem Reservas) com Catherine Zeta-Jones, Aaron Eckhart e a menina que está em todas, Abigail Breslin (de Little Miss Sunshine). Pra quem ainda não assistiu ao filme, acho que já está disponível em DVD e o trailer legendado pode ser visto no [youtube](http://br.youtube.com/watch?v=jO3t4h7lwzs).
 
 Eu queira deixar a receita um pouco mais saudável entao eu resolvi substituir parte da farinha de trigo por farinha de trigo integral e as pancakes continuaram deliciosas. Pra completar, eu fiz um molho de morangos que copiei de uma outra receita que combinou muito bem.

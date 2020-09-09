@@ -8,32 +8,32 @@ comments: true
 ---
 
 ## Capitólio
-<img class="image left-image" src="/blog/images/capitol.jpg" width="40%">
+<img class="image left-image" src="/images/capitol.jpg" width="40%">
 Nossa visita estava marcada para as 9h:30. Um representante de Utah nos levou para conhecer o Capitólio. Entramos por um prédio lateral e seguimos por um túnel que dava no Capitólio. Lá é mantida uma seleção de esculturas e pinturas. O interessante é que eu como brasileira, apesar de ter visitado Brasília, nunca entrei no Palácio do Planalto, mas visitei o Capitólio em Washington. Vai entender! :S
 
-<center><img class="post-image" src="/blog/images/capitol_ceiling.jpg" width="60%"></center>
+<center><img class="post-image" src="/images/capitol_ceiling.jpg" width="60%"></center>
 <figcaption>Capitol Ceiling</figcaption>
 
 
 ## The Holocaust Memorial Museum
 
-<img class="image right-image" src="/blog/images/holocaust.jpg" width="40%">
+<img class="image right-image" src="/images/holocaust.jpg" width="40%">
 Outro lugar que me marcou muito. Impressionante você ver três andares de fotos. Achei legal que na entrada você recebe um pequeno passaporte contando a história de uma pessoa que viveu durante o holocausto. O meu conta a história de uma polonesa chamada Eva Miodecka, nascida em 27 de outubro de 1926. Graças a Deus ela sobreviveu, apesar de ter sofrido muito.
 
 ## The Court House
 
-<center><img class="post-image" src="/blog/images/the_court_house.jpg" width="60%"></center>
+<center><img class="post-image" src="/images/the_court_house.jpg" width="60%"></center>
 <figcaption>The Court House</figcaption>
 
 Como tínhamos tempo antes da visita à biblioteca, fomos conhecer a Court House. Não sei nem que termo usar em Português, forum? Whatever, como todos os lugares que visitei, o lugar muito bonito. Todo no mármore. Lá que tem uma das maiores escadarias em espiral que já vi.
 
-<center><img class="post-image" src="/blog/images/spiral_staircase.jpg" width="60%"></center>
+<center><img class="post-image" src="/images/spiral_staircase.jpg" width="60%"></center>
 <figcaption>Spiral Staircase in the Court House</figcaption>
 
 ## Library of Congress
 A maior biblioteca do mundo! Tem itens suficientes pra preencher mais de 800Km de prateleiras... Uau! Fiquei babando. Apesar da tour ter sido um saco, o lugar é espetacular. A sala de leitura principal é gigante! Cada item raro. Tem uma cópia da primeira bíblia impressa do mundo (só existem três).
 
-<center><img class="post-image" src="/blog/images/library_of_congress.jpg" width="60%"></center>
+<center><img class="post-image" src="/images/library_of_congress.jpg" width="60%"></center>
 <figcaption>The Library of Congress</figcaption>
 
 ---
