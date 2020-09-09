@@ -17,6 +17,7 @@ title: Emanuele's blog
 description: > # this means to ignore newlines until "baseurl:"
   Emanuele's little corner on the Internet.
 
+baseurl: "/"
 url: "https://emanuelemarques.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 author:
